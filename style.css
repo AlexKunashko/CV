@@ -117,7 +117,7 @@ h2 {
 }
 
 .skills .li_wrap {
-  width: 100px;
+  width: 80px;
   aspect-ratio: 1/1;
   margin-bottom: 15px;
   border-radius: 15px;
@@ -228,7 +228,7 @@ h2 {
   }
   .cv {
     width: 768px;
-    margin: 0;
+    margin: auto;
   }
   .left {
     width: 240px;
